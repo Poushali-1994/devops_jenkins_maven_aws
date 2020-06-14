@@ -1,1 +1,3 @@
-# devops_jenkins_maven_aws
+# java CI with jenkins 
+youtube video link
+https://www.youtube.com/watch?v=ocQbXQh46Nc
